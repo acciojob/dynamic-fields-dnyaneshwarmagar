@@ -50,7 +50,7 @@ const DynamicForm = () => {
           </div>
         ))}
         <button type="button" onClick={handleAddField}>
-          Add Field
+          Add More...
         </button>
         <button type="submit">Submit</button>
       </form>
